@@ -1,0 +1,2 @@
+include README.md
+include random_scraper/package_data/*

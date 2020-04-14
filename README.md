@@ -6,4 +6,6 @@ This package provides simple methods for web-scraping. It provides a list of use
 Next steps: 
   * Write a detailed documentation and examples
   * Update the request_page function to scrape AJAX websites
+  
+  
 Note: We are not responsible for the wrongful usage of the tools provided. Please scrape content responsibly.

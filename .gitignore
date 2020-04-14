@@ -127,3 +127,33 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+my_env_v1/bin/activate
+my_env_v1/bin/activate.csh
+my_env_v1/bin/activate.fish
+my_env_v1/bin/chardetect
+my_env_v1/bin/easy_install
+my_env_v1/bin/easy_install-3.7
+my_env_v1/bin/pip
+my_env_v1/bin/pip3
+my_env_v1/bin/pip3.7
+my_env_v1/bin/pkginfo
+my_env_v1/bin/pygmentize
+my_env_v1/bin/python
+my_env_v1/bin/python3
+my_env_v1/bin/python3.7
+my_env_v1/bin/rst2html.py
+my_env_v1/bin/rst2html4.py
+my_env_v1/bin/rst2html5.py
+my_env_v1/bin/rst2latex.py
+my_env_v1/bin/rst2man.py
+my_env_v1/bin/rst2odt.py
+my_env_v1/bin/rst2odt_prepstyles.py
+my_env_v1/bin/rst2pseudoxml.py
+my_env_v1/bin/rst2s5.py
+my_env_v1/bin/rst2xetex.py
+my_env_v1/bin/rst2xml.py
+my_env_v1/bin/rstpep2html.py
+my_env_v1/bin/tqdm
+my_env_v1/bin/twine
+my_env_v1/bin/wheel
+my_env_v1/pyvenv.cfg

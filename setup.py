@@ -13,7 +13,7 @@ setup(
     description="Tools for Web-Scraping",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url="https://github.com/random_scraper/random_scraper/",
+    url="https://github.com/random-scraper/random_scraper/",
     packages=find_packages(),
     scripts=['bin/random_scrape'],
     include_package_data=True,

@@ -157,3 +157,4 @@ my_env_v1/bin/tqdm
 my_env_v1/bin/twine
 my_env_v1/bin/wheel
 my_env_v1/pyvenv.cfg
+.DS_Store

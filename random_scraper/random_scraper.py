@@ -82,7 +82,6 @@ def request_page(login_url,candidate_proxies=get_proxies(),candidate_user_agents
                                 proxies={'http':proxy},
                                 headers = {'User-Agent': random.sample(candidate_user_agents,1)[0]},timeout=10,allow_redirects=False)
                 bol=page.status_code
-                print(bol)
                 candidate_proxies=update_proxies(candidate_proxies,set(proxy))
             except ProxyError:
                 print("ProxyError")

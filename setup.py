@@ -7,7 +7,7 @@ requirements = ['requests','lxml']
 
 setup(
     name="random_scraper",
-    version="0.0.1",
+    version="0.0.2",
     author="Malek Ben Sliman",
     author_email="mab2343@columbia.edu",
     description="Tools for Web-Scraping",
